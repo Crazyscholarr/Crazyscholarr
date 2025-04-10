@@ -12,7 +12,7 @@ Welcome to my profile! I’m a passionate programmer and content creator. I love
 - 👯 I’d like to collaborate on [Testnet | retroactive | depin].
 - 💬 Ask me about [@Crzscholar].
 - 📫 Reach me at: [@Crzscholar].
-- ⚡ Fun fact: I’m crazy about solving CAPTCHAs automatically!
+- ⚡ Fun fact: I’m crazy
 
 ---
 
