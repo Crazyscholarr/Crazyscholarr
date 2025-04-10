@@ -1,6 +1,6 @@
 # Hello! I’m Crazyscholar 👋
 
-![Personal Banner](https://imgur.com/a/t3YBcNN)
+![Personal Banner](https://i.imgur.com/Yf81mCf.jpg)
 
 Welcome to my profile! I’m a passionate programmer and content creator. I love building applications, designing interfaces, and exploring the universe.
 
