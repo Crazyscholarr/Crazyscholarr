@@ -16,15 +16,6 @@ Welcome to my profile! I’m a passionate programmer and content creator. I love
 
 ---
 
-## 🛠️ Tools & Skills
-
-| Programming Languages | Technologies | Design    |
-|-----------------------|--------------|-----------|
-| Python                | Docker       | Figma     |
-| JavaScript            | Kubernetes   | Photoshop |
-
----
-
 ## 📊 GitHub Stats
 ![Crazyscholar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crazyscholarr&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyscholarr&layout=compact&theme=radical)
