@@ -14,26 +14,24 @@
 
 ## 🎯 About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-</div>
-
-<div align="center">
-
-```javascript
+```js
 const crazyscholar = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "Python", "Solidity", "TypeScript"],
-    askMeAbout: ["Testnet", "DePIN", "Blockchain", "Automation"],
-    currentlyLearning: ["Advanced DePIN Protocols", "Testnet Strategies"],
-    funFact: "I'm crazy about coding and exploring new technologies!",
-    workingOn: "Dawn-Validator & Testnet Automation Tools",
-    social: {
-        twitter: "https://x.com/Crazyschol4rr",
-        discord: "crazyscholar",
-        telegram: "@Crzscholar",
-        email: "Crazyscholar@outlook.com.vn"
-    }
+  pronouns: "He/Him",
+  code: ["JavaScript", "Python", "Solidity", "TypeScript"],
+  askMeAbout: ["Testnet", "DePIN", "Blockchain", "Automation"],
+  currentlyLearning: ["Advanced DePIN Protocols", "Testnet Strategies"],
+  funFact: "I'm crazy about coding and exploring new technologies!",
+  workingOn: "Dawn-Validator & Testnet Automation Tools",
+  social: {
+    twitter: "https://x.com/Crazyschol4rr",
+    discord: "crazyscholar",
+    telegram: "@Crzscholar",
+    email: "Crazyscholar@outlook.com.vn"
+  }
 };
 ```
 
