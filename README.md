@@ -10,31 +10,29 @@
 
 ---
 
-<div align="center">
-
 ## 🎯 About Me
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-```js
-const crazyscholar = {
-  pronouns: "He/Him",
-  code: ["JavaScript", "Python", "Solidity", "TypeScript"],
-  askMeAbout: ["Testnet", "DePIN", "Blockchain", "Automation"],
-  currentlyLearning: ["Advanced DePIN Protocols", "Testnet Strategies"],
-  funFact: "I'm crazy about coding and exploring new technologies!",
-  workingOn: "Dawn-Validator & Testnet Automation Tools",
-  social: {
-    twitter: "https://x.com/Crazyschol4rr",
-    discord: "crazyscholar",
-    telegram: "@Crzscholar",
-    email: "Crazyscholar@outlook.com.vn"
-  }
-};
-```
-
+<div align="center">
+  <div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:20px;margin:10px;width:90%;max-width:700px;text-align:left;color:#c9d1d9;font-family:Consolas,Monaco,'Andale Mono','Ubuntu Mono',monospace;">
+  <span style="color:#ff7b72;">const</span> <span style="color:#d2a8ff;">crazyscholar</span> = {<br>
+  &nbsp;&nbsp;<span style="color:#79c0ff;">pronouns</span>: <span style="color:#a5d6ff;">"He/Him"</span>,<br>
+  &nbsp;&nbsp;<span style="color:#79c0ff;">code</span>: [<span style="color:#a5d6ff;">"JavaScript"</span>, <span style="color:#a5d6ff;">"Python"</span>, <span style="color:#a5d6ff;">"Solidity"</span>, <span style="color:#a5d6ff;">"TypeScript"</span>],<br>
+  &nbsp;&nbsp;<span style="color:#79c0ff;">askMeAbout</span>: [<span style="color:#a5d6ff;">"Testnet"</span>, <span style="color:#a5d6ff;">"DePIN"</span>, <span style="color:#a5d6ff;">"Blockchain"</span>, <span style="color:#a5d6ff;">"Automation"</span>],<br>
+  &nbsp;&nbsp;<span style="color:#79c0ff;">currentlyLearning</span>: [<span style="color:#a5d6ff;">"Advanced DePIN Protocols"</span>, <span style="color:#a5d6ff;">"Testnet Strategies"</span>],<br>
+  &nbsp;&nbsp;<span style="color:#79c0ff;">funFact</span>: <span style="color:#a5d6ff;">"I'm crazy about coding and exploring new technologies!"</span>,<br>
+  &nbsp;&nbsp;<span style="color:#79c0ff;">workingOn</span>: <span style="color:#a5d6ff;">"Dawn-Validator & Testnet Automation Tools"</span>,<br>
+  &nbsp;&nbsp;<span style="color:#79c0ff;">social</span>: {<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#79c0ff;">twitter</span>: <a href="https://x.com/Crazyschol4rr" style="color:#58a6ff;text-decoration:none;">"@Crazyschol4rr"</a>,<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#79c0ff;">discord</span>: <span style="color:#a5d6ff;">"crazyscholar"</span>,<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#79c0ff;">telegram</span>: <span style="color:#a5d6ff;">"@Crzscholar"</span>,<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#79c0ff;">email</span>: <a href="mailto:Crazyscholar@outlook.com.vn" style="color:#58a6ff;text-decoration:none;">"Crazyscholar@outlook.com.vn"</a><br>
+  &nbsp;&nbsp;}<br>
+  };
+  </div>
 </div>
 
 ---
@@ -66,111 +64,5 @@ const crazyscholar = {
 ![Testnet](https://img.shields.io/badge/Testnet-FF6B6B?style=for-the-badge&logo=ethereum&logoColor=white)
 ![DePIN](https://img.shields.io/badge/DePIN-4ECDC4?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-45B7D1?style=for-the-badge&logo=robot&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Crazyscholarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyscholarr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Crazyscholarr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Crazyscholarr&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-### 🔥 Faucet-Recall
-[![Faucet-Recall](https://img.shields.io/badge/Faucet--Recall-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crazyscholarr/Faucet-Recall)
-
-> **Automated Testnet Token Request Tool**
-> 
-> 🎯 **Features:**
-> - 🤖 Automated CAPTCHA solving with Capsolver
-> - 🔄 Continuous operation with auto-retry
-> - 🌐 Proxy support for multiple wallets
-> - 🌍 Multi-language logs (Vietnamese/English)
-> - ⚡ High-performance automation
-
----
-
-### 🌟 Irys Faucet Tool
-[![irys-faucet](https://img.shields.io/badge/Irys--Faucet-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crazyscholarr/irys-faucet)
-
-> **Complete Tutorial & Automation Guide**
-> 
-> 🎯 **Features:**
-> - 📚 Step-by-step installation guide
-> - 🔧 Multi-wallet support
-> - 🌐 Proxy integration
-> - 🚀 Easy-to-use automation
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Crazyschol4rr)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/crazyscholar)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Crzscholar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Crazyscholar@outlook.com.vn)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crazyscholarr)
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Snake Game
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎉 Visitor Count
-
-![Profile Views](https://komarev.com/ghpvc/?username=Crazyscholarr&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
-
-### ⭐ Thanks for visiting! Please leave a star if you like my profile! ⭐
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&lines=Keep+Coding%2C+Keep+Exploring!;Let's+Build+the+Future+Together!" alt="Typing SVG" />
 
 </div>
