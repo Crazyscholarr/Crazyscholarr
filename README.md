@@ -22,7 +22,7 @@
 
 ```javascript
 const crazyscholar = {
-    pronouns: "He" | "Him",
+    pronouns: "He/Him",
     code: ["JavaScript", "Python", "Solidity", "TypeScript"],
     askMeAbout: ["Testnet", "DePIN", "Blockchain", "Automation"],
     currentlyLearning: ["Advanced DePIN Protocols", "Testnet Strategies"],
@@ -151,26 +151,7 @@ const crazyscholar = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-
-```python
-# Snake Game - Eat commits to grow! 🐍
-class Snake:
-    def __init__(self):
-        self.body = ["🐍"]
-        self.food = "🍎"
-    
-    def eat_commit(self):
-        self.body.append("🟢")
-        print("Snake grew! Keep coding! 🚀")
-
-snake = Snake()
-snake.eat_commit()  # Every commit makes snake longer!
-```
-
-![Snake Game](https://github.com/Crazyscholarr/Crazyscholarr/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 
 </div>
 
