@@ -145,4 +145,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&lines=Keep+Coding%2C+Keep+Exploring!;Let's+Build+the+Future+Together!" alt="Typing SVG" />
 
+---
+
+## 📞 Contact Information
+
+**Discord:** 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/837144457194373160)](https://discord.com/users/837144457194373160)
+
+**Twitter:** 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Crazyschol4rr?style=social)](https://x.com/Crazyschol4rr)
+
+**Telegram:** 
+
+[![Telegram](https://img.shields.io/badge/Telegram-Crazyscholar-blue?style=for-the-badge&logo=telegram)](https://t.me/Crazyscholarr)
+
 </div>
