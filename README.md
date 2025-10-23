@@ -151,7 +151,7 @@
 
 **Discord:** 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/837144457194373160)](https://discord.com/users/837144457194373160)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/837144457194373160)](https://discord.com/users/837144457194373160)
 
 **Twitter:** 
 
