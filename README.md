@@ -20,7 +20,7 @@
 
 <div align="center">
 
-```javascript
+
 const crazyscholar = {
     pronouns: "He/Him",
     code: ["JavaScript", "Python", "Solidity", "TypeScript"],
@@ -35,7 +35,7 @@ const crazyscholar = {
         email: "Crazyscholar@outlook.com.vn"
     }
 };
-```
+
 
 </div>
 
