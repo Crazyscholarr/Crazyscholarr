@@ -151,7 +151,26 @@ const crazyscholar = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+<div align="center">
+
+```python
+# Snake Game - Eat commits to grow! 🐍
+class Snake:
+    def __init__(self):
+        self.body = ["🐍"]
+        self.food = "🍎"
+    
+    def eat_commit(self):
+        self.body.append("🟢")
+        print("Snake grew! Keep coding! 🚀")
+
+snake = Snake()
+snake.eat_commit()  # Every commit makes snake longer!
+```
+
+![Snake Game](https://github.com/Crazyscholarr/Crazyscholarr/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 </div>
 
@@ -161,7 +180,7 @@ const crazyscholar = {
 
 ## 🎉 Visitor Count
 
-<img src="https://profile-counter.glitch.me/Crazyscholarr/count.svg" alt="Visitor Count" />
+![Profile Views](https://komarev.com/ghpvc/?username=Crazyscholarr&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
 
