@@ -39,6 +39,9 @@ const crazyscholar = {
 
 </div>
 
+---
+
+<div align="center">
 
 ## 🛠️ Tech Stack & Skills
 
