@@ -151,7 +151,8 @@
 
 **Discord:** 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/837144457194373160)](https://discord.com/users/837144457194373160)
+[![Discord](https://img.shields.io/badge/Discord-Crazyscholar%233020-5865F2?logo=discord&logoColor=white)](https://discord.com/users/837144457194373160)
+
 
 **Twitter:** 
 
