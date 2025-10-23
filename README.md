@@ -10,6 +10,8 @@
 
 ---
 
+<div align="center">
+
 ## 🎯 About Me
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -18,22 +20,25 @@
 
 <div align="center">
 
-
+```javascript
 const crazyscholar = {
     pronouns: "He/Him",
     code: ["JavaScript", "Python", "Solidity", "TypeScript"],
     askMeAbout: ["Testnet", "DePIN", "Blockchain", "Automation"],
-    askMeAbout: ["Testnet", "DePIN", "Blockchain", "Automation"], // ✅ Correct with square brackets
     currentlyLearning: ["Advanced DePIN Protocols", "Testnet Strategies"],
     funFact: "I'm crazy about coding and exploring new technologies!",
     workingOn: "Dawn-Validator & Testnet Automation Tools",
-@@ -36,9 +27,6 @@ const crazyscholar = {
+    social: {
+        twitter: "https://x.com/Crazyschol4rr",
+        discord: "crazyscholar",
+        telegram: "@Crzscholar",
+        email: "Crazyscholar@outlook.com.vn"
     }
 };
-
+```
 
 </div>
----------------------------
+
 
 ## 🛠️ Tech Stack & Skills
 
